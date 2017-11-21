@@ -1,0 +1,58 @@
+p, #es {
+  display: inline;
+  padding: 10px;
+}
+
+p {
+  background-color: #F7B617;
+  color: #2B2B2B;
+}
+
+#es {
+  background-color: #2B2B2B;
+  color: #FFFFFF;
+  margin: 20px;
+}
+
+
+/*display: inline-block; /*lo pone en una sola linea*/
+
+/*p {
+  color: #2B2B2B;
+  background-color: #F7B617;
+  display: inline;
+  padding: 10px;
+}
+
+#es {
+  color: #FFFFFF;
+  background-color: #2B2B2B;
+  box-sizing: content-box;
+  display: inline;
+  margin: 0 auto;
+  padding: 10px;
+  margin: 20px;*/
+
+
+
+
+
+
+
+
+
+
+/* part 4
+p {
+  color: #2B2B2B;
+  background-color: #F7B617;
+  display: inline-block;
+}
+
+#es {
+  color: #FFFFFF;
+  background-color: #2B2B2B;
+  box-sizing: content-box;
+  display: inline-block;
+}
+*/

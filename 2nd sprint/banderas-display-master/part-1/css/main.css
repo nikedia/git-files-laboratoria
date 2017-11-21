@@ -1,0 +1,32 @@
+p, #es {
+  display: block;
+  padding: 10px 100px 70px 5px;
+}
+
+p {
+  background-color: #F7B617;
+  color: #2B2B2B;
+}
+
+#es {
+  background-color: #2B2B2B;
+  color: #FFFFFF;
+}
+
+
+
+
+/* part 4
+p {
+  color: #2B2B2B;
+  background-color: #F7B617;
+  display: inline-block;
+}
+
+#es {
+  color: #FFFFFF;
+  background-color: #2B2B2B;
+  box-sizing: content-box;
+  display: inline-block;
+}
+*/
